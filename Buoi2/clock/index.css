@@ -1,0 +1,9 @@
+div{
+    width: 550px;
+    height: 100px;
+    background-color: rgb(75, 75, 99);
+    color: rgb(235, 79, 144);
+    font-size: 100px;
+    text-align: center;
+    border-radius: 10px;
+}
